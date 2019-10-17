@@ -1,0 +1,11 @@
+G:\A Asp .net core mvc web development\EntityFrameWork\AEfCore\AEfCore\bin\Debug\netcoreapp2.2\AEfCore.deps.json
+G:\A Asp .net core mvc web development\EntityFrameWork\AEfCore\AEfCore\bin\Debug\netcoreapp2.2\AEfCore.runtimeconfig.json
+G:\A Asp .net core mvc web development\EntityFrameWork\AEfCore\AEfCore\bin\Debug\netcoreapp2.2\AEfCore.runtimeconfig.dev.json
+G:\A Asp .net core mvc web development\EntityFrameWork\AEfCore\AEfCore\bin\Debug\netcoreapp2.2\AEfCore.dll
+G:\A Asp .net core mvc web development\EntityFrameWork\AEfCore\AEfCore\obj\Debug\netcoreapp2.2\AEfCore.csproj.CoreCompileInputs.cache
+G:\A Asp .net core mvc web development\EntityFrameWork\AEfCore\AEfCore\obj\Debug\netcoreapp2.2\AEfCore.AssemblyInfoInputs.cache
+G:\A Asp .net core mvc web development\EntityFrameWork\AEfCore\AEfCore\obj\Debug\netcoreapp2.2\AEfCore.AssemblyInfo.cs
+G:\A Asp .net core mvc web development\EntityFrameWork\AEfCore\AEfCore\obj\Debug\netcoreapp2.2\AEfCore.csprojAssemblyReference.cache
+G:\A Asp .net core mvc web development\EntityFrameWork\AEfCore\AEfCore\bin\Debug\netcoreapp2.2\AEfCore.pdb
+G:\A Asp .net core mvc web development\EntityFrameWork\AEfCore\AEfCore\obj\Debug\netcoreapp2.2\AEfCore.dll
+G:\A Asp .net core mvc web development\EntityFrameWork\AEfCore\AEfCore\obj\Debug\netcoreapp2.2\AEfCore.pdb
